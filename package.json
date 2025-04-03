@@ -1,0 +1,15 @@
+{
+  "name": "namkeen",
+  "version": "1.0.0",
+  "description": "Namkeen product showcase",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
